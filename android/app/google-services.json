@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561056426046",
+    "project_id": "login-page-34c07",
+    "storage_bucket": "login-page-34c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561056426046:android:bfbfa327b84d49ee88896f",
+        "android_client_info": {
+          "package_name": "com.benflorence.flutter_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdIH3WeMr5NO8H0NpW6ECQy2BghJbG98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
